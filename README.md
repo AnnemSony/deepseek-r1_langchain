@@ -12,4 +12,4 @@
 
 
 	#### To run this code- Open command prompt and type
-	streamlit run 1.py
+	streamlit run main.py
