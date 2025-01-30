@@ -8,10 +8,7 @@ Implementing a user-friendly interface that integrates the Ollama framework and 
 - Enhanced capabilities with DeepSeek R1 model
 - User-friendly interface
 
-## Installation
-To install the necessary dependencies, run:
-```bash
-pip install -r requirements.txt
+
 # Environment Setup
  Install packages
 
