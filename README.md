@@ -1,3 +1,17 @@
+# DeepSeek R1 LangChain
+
+## Description
+Implementing a user-friendly interface that integrates the Ollama framework and utilizes the DeepSeek R1 model to enhance its capabilities.
+
+## Features
+- Integration with Ollama framework
+- Enhanced capabilities with DeepSeek R1 model
+- User-friendly interface
+
+## Installation
+To install the necessary dependencies, run:
+```bash
+pip install -r requirements.txt
 # Environment Setup
  Install packages
 
